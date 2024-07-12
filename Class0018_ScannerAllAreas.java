@@ -1,8 +1,12 @@
-package java_assignments;
+package java_package;
+//Using Scanner Class please execute below problems:
+//Area of circle, Circumference of circle, Area of square, Area of rectangle, 
+//Area of triangle, Area of trapezium, Circumference of square, 
+//Circumference of rectangle, Circumference of triangle, Circumference of trepezium
 
 import java.util.Scanner;
 
-public class Assignment_18 {
+public class Class0018_ScannerAllAreas {
 	public static void main(String[] args) {
 
 		Scanner s1 = new Scanner(System.in);
@@ -58,5 +62,6 @@ public class Assignment_18 {
 		System.out.println("Circumference of trapezium is : " + circum5);
 
 	}
+
 
 }
